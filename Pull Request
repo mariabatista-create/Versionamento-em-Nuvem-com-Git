@@ -1,0 +1,6 @@
+git checkout -b minha-feature        # Cria uma nova branch
+# Faça alterações no código
+git add .
+git commit -m "Adiciona nova funcionalidade"
+git push origin minha-feature
+
