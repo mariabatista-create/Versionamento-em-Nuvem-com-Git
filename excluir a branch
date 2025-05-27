@@ -1,0 +1,3 @@
+git checkout main
+git branch -d minha-feature
+git push origin --delete minha-feature
